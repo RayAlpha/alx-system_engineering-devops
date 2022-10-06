@@ -9,3 +9,4 @@ task 8. set permission to only other users
 task7. permision to everybody  
 task 9. set mode of file hello to -rwxr-x-wx  
 task 10. mirror permissions  
+task 11. adds execute permissions to subdirectories for all  
